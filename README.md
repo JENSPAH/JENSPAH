@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JENSPAH
-- 👀 I’m interested in pathogenesis and treatment of neurodegenerative diseases - in short: dementias. And using new biological and digital tools to solve these miracles of our species.
-- 💞️ I’m looking to collaborate on mass spectrometry + imaging and biological and computational questions.
+- 👀 I’m interested in pathogenesis and treatment of neurodegenerative diseases - in short: dementias. We use new biological and digital tools to solve these miracles of our species.
+- 💞️ I’m looking for colleagues to collaborate on mass spectrometry + imaging and biological and computational questions.
 - 📫 How to reach me ... www.pahnkelab.eu
 
 <!---
